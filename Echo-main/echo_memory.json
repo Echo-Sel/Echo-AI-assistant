@@ -1,0 +1,46 @@
+{
+    "user": {
+        "name": {
+            "value": "Selim",
+            "timestamp": "2025-11-24T16:10:00.000000"
+        }
+    },
+    "mom": {
+        "name": {
+            "value": "Rania",
+            "timestamp": "2025-11-24T16:10:00.000000"
+        },
+        "hobby": {
+            "value": "Gardening",
+            "timestamp": "2025-11-24T16:10:00.000000"
+        }
+    },
+    "dog": {
+        "name": {
+            "value": "Leo",
+            "timestamp": "2025-11-24T16:10:00.000000"
+        },
+        "breed": {
+            "value": "Golden Retriever",
+            "timestamp": "2025-11-24T16:10:00.000000"
+        }
+    },
+    "brother": {
+        "name": {
+            "value": "Adham",
+            "timestamp": "2025-11-24T16:10:00.000000"
+        }
+    },
+    "dad": {
+        "name": {
+            "value": "Tarek",
+            "timestamp": "2025-11-24T16:10:00.000000"
+        }
+    },
+    "best friend": {
+        "name": {
+            "value": "Nadim",
+            "timestamp": "2025-11-24T16:15:00.000000"
+        }
+    }
+}

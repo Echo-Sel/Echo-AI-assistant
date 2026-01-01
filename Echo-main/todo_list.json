@@ -1,0 +1,44 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "task": "Integrate Google Calendar on my to-do list",
+            "status": "incomplete",
+            "priority": "medium",
+            "created": "2025-11-24 19:11:21",
+            "due_date": null
+        },
+        {
+            "id": 2,
+            "task": "email integration",
+            "status": "incomplete",
+            "priority": "medium",
+            "created": "2025-11-25 23:01:14",
+            "due_date": null
+        },
+        {
+            "id": 3,
+            "task": "LED light integration",
+            "status": "incomplete",
+            "priority": "low",
+            "created": "2025-11-25 23:02:54",
+            "due_date": "null"
+        },
+        {
+            "id": 4,
+            "task": "Add stock price checking",
+            "status": "incomplete",
+            "priority": "medium",
+            "created": "2025-11-25 23:03:32",
+            "due_date": null
+        },
+        {
+            "id": 5,
+            "task": "Check out Nano GPT by karpathy",
+            "status": "incomplete",
+            "priority": "high",
+            "created": "2025-11-25 23:09:57",
+            "due_date": "tomorrow"
+        }
+    ]
+}
